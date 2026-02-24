@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Ranjit Jaiswal
 🔭 I’m currently working on: Traffic Simulation (Java) using SUMO/TraCI + GUI (Start/Stop/Step, Logging, Git/GitHub)<br><br>👯 I’m looking to collaborate on: Java projects, OOP-based applications, small tools/utilities, beginner-friendly open-source (Java/SQL)<br><br>🤝 I’m looking for help with: SUMO/TraCI integration, clean architecture for Java GUI apps, testing (JUnit), Git best practices<br><br>🌱 I’m currently learning: Java (OOP), Software Engineering basics, SQL fundamentals, IT Security concepts<br><br>💬 Ask me about: OOP in Java, C basics (arrays/strings/file I/O), Git/GitHub workflow, student life in Germany (Frankfurt UAS)<br><br>⚡ Fun fact: I speak Nepali (native), Hindi, German (C1) and English (C1) — and I enjoy building practical IT projects alongside my studies.
 
 
